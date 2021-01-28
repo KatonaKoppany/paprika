@@ -32,7 +32,7 @@ table{
     margin: auto;
 }
 
-td{
+td, th{
     border: 1px solid black;
 }
 
@@ -42,4 +42,9 @@ li{
     margin: 15px;
     list-style-image: url(chili-pepper-icon.gif);
     background-color: white;
+}
+
+#jobbra_zart{
+    width: 120px;
+    text-align: center;
 }
